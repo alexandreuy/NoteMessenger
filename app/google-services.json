@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "270535790470",
+    "firebase_url": "https://notemessenger-f1c60-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "notemessenger-f1c60",
+    "storage_bucket": "notemessenger-f1c60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270535790470:android:eaddb12acbae954c8ae607",
+        "android_client_info": {
+          "package_name": "com.example.notemessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270535790470-k21a51t15kd11en2klpc24m8m67tmr5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbtMdQAbNG97NW3o3emk-ILYNUmn1lF4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270535790470-k21a51t15kd11en2klpc24m8m67tmr5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

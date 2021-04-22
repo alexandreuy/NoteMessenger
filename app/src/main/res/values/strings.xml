@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">NoteMessenger</string>
+    <string name="this_is_main_page">This is main page</string>
+    <string name="welcome_to_notemessenger">Welcome to NoteMessenger</string>
+    <string name="register">Register</string>
+    <string name="message">Message</string>
+    <string name="create">Create</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="d_connexion">Déconnexion</string>
+    <string name="utilisateurs">Utilisateurs</string>
+    <string name="param_tres_utilisateur">Paramètres utilisateur</string>
+    <string name="title_cr_er_un_nouveau_compte">Créer un nouveau compte</string>
+    <string name="creer_un_compte">Créer un compte ?</string>
+    <string name="deja_un_compte">Déjà un compte ?</string>
+    <string name="email">Email</string>
+    <string name="connexion">Connexion</string>
+    <string name="cr_er_un_compte">Créer un compte</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="display_name">Display Name</string>
+    <string name="bonjour_j_utilise_notemessenger">Bonjour, j\'utilise NoteMessenger !</string>
+    <string name="changer_d_image">Changer d\'Image</string>
+    <string name="changer_le_statut">CHANGER LE STATUT</string>
+    <string name="statut">Statut</string>
+    <string name="status">Status</string>
+    <string name="demander_en_ami">Demander en ami</string>
+    <string name="nombre_d_ami_s">Nombre d\'ami(s)</string>
+    <string name="profile_image">PROFILE_IMAGE</string>
+    <string name="nombre_d_amis">Nombre d\'ami(s)</string>
+    <string name="refuser_la_demande_d_ami_e">Refuser la demande d\'ami(e)</string>
+    <string name="refuser_la_demande_d_ami">Refuser la demande d\'ami</string>
+    <string name="chat_page">Chat page</string>
+    <string name="online">online</string>
+    <string name="hello">Hello</string>
+    <string name="name_chat">Name</string>
+    <string name="last_seen">Last Seen</string>
+    <string name="addbutton">AddButton</string>
+    <string name="sendmessage">sendMessage</string>
+    <string name="text">Text</string>
+
+</resources>
